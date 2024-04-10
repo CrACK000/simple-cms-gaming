@@ -1,0 +1,8 @@
+{
+    "require": {
+        "delight-im/auth": "^7.2",
+        "phpmailer/phpmailer": "^6.0",
+        "slim/pdo": "^1.10",
+        "austinb/gameq": "~3.0"
+    }
+}
